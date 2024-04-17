@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "20c0",
+      "cityName": "Priego",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-17T19:12:14.000Z",
+      "notes": "q1231weee",
+      "position": {
+        "lat": "40.48038142908172",
+        "lng": "-2.3291015625000004"
+      }
+    },
+    {
+      "id": "c75a",
+      "cityName": "Camarillas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-07T19:46:40.834Z",
+      "notes": "",
+      "position": {
+        "lat": "40.6306300839918",
+        "lng": "-0.81298828125"
+      }
+    },
+    {
+      "id": "9284",
+      "cityName": "Villadiego",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-07T20:01:53.578Z",
+      "notes": "",
+      "position": {
+        "lat": "42.48830197960227",
+        "lng": "-4.108886718750001"
+      }
+    }
+  ]
+}
