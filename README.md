@@ -1,8 +1,7 @@
-# React + Vite
+npm run dev
+npm run sever
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+single page react app for users to register the cities they travelled to on the world map.
+react router, CSS modules, context API + reducer
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+demo: https://catowise.netlify.app/app/cities
